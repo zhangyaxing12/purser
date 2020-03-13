@@ -58,7 +58,7 @@
     "chokidar": "^3.0.0",
     "denodeify": "^1.2.1",
     "eslint": "6.1.0",
-    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-config-airbnb-base": "^14.1.0",
     "eslint-config-prettier": "^6.0.0",
     "eslint-plugin-flowtype": "^4.2.0",
     "eslint-plugin-import": "2.14.0",
