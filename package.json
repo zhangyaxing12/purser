@@ -71,8 +71,8 @@
     "lint-staged": "10.0.8",
     "prettier": "1.19.1",
     "regenerator-runtime": "0.13.5",
-    "cross-env": "^6.0.3",
-    "rimraf": "^3.0.2"
+    "cross-env": "6.0.3",
+    "rimraf": "3.0.2"
   },
   "dependencies": {
     "@babel/runtime": "7.8.7",
